@@ -22,3 +22,8 @@
 
 ---
 # Imagen de nuestro diagrama![logicaProgramacionCesde drawio](https://github.com/user-attachments/assets/31a20894-88d5-47da-a8bb-c088c4c1f663)
+
+
+# Video 1
+https://youtu.be/ecWKzm_s3PM
+# Video 2
