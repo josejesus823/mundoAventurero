@@ -1,6 +1,6 @@
 # 🌍✈️ Mundo Aventurero - Sistema de Reservas de Viaje en Java 🧳💻
 
-> Un sistema turístico interactivo para calcular reservas de viaje basado en lógica Java, con versión de interfaz web responsive.
+> Un sistema turístico interactivo para calcular reservas de viaje basado en lógica Java
 
 ---
 
