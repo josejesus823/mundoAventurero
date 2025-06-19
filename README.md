@@ -27,3 +27,7 @@
 # Video 1
 https://youtu.be/ecWKzm_s3PM
 # Video 2
+https://youtu.be/odGYWGTx2jQ
+
+# LINK PROYECTO WEB DESPLEGADO
+https://josejesus823.github.io/mundo-aventurero-web/
